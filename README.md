@@ -10,4 +10,4 @@
 
 **Deploy Production By : Netlify**
 
-## Link Demo : https://myteam-page-challenge.netlify.app/
+## Link Demo : https://myteam-challenge.netlify.app/
