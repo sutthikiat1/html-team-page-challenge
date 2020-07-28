@@ -1,6 +1,6 @@
-.body {
-  margin: 0px;
-  font-family: "Poppins";
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 
 h1,
@@ -16,6 +16,7 @@ p {
 
 .container {
   margin: 0 auto;
+  min-height: 90vh;
 }
 
 .title {
@@ -86,6 +87,16 @@ p {
 
 .flex-end {
   align-self: flex-end;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: #000;
+  font-size: 1.1rem;
+  text-decoration: none;
 }
 
 @media only screen and (max-height: 800px) {
