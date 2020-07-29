@@ -1,5 +1,9 @@
 ## devchallenges.io
 
+# [Myteam Page]
+
+## Link Demo : https://myteam-challenge.netlify.app/
+
 # Challenge:
 
 > Create my team page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below <br />
@@ -9,5 +13,3 @@
 > I can see a page following the given design : https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge <br />
 
 **Deploy Production By : Netlify**
-
-## Link Demo : https://myteam-challenge.netlify.app/
